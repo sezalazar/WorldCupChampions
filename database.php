@@ -4,7 +4,7 @@
 
 function connect(){
 
-$link =  mysqli_connect('localhost', 'youtube', 'uqgdk25xCalNScWp', 'worldcupchampions');
+$link =  mysqli_connect('localhost', 'root', ' ', 'worldcupchampions');
 
 return $link;
 
